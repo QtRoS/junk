@@ -1,3 +1,3 @@
 <?php
 
-echo exec("file data");
+echo exec("ls");
